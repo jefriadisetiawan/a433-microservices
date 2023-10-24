@@ -1,1 +1,2 @@
-https://hub.docker.com/repository/docker/jefriadisetiawan/item-app/general
+docker hub: https://hub.docker.com/repository/docker/jefriadisetiawan/item-app/general
+git hub : https://github.com/jefriadisetiawan/a433-microservices/tree/proyek-pertama

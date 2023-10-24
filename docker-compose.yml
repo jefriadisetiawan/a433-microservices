@@ -19,7 +19,7 @@ services:
       - item-db
     restart: always
     ports:
-      - 8080:8080
+      - 80:8080
     
          
 # mengatur bridge volume untuk item-db
