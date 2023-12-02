@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# melakukan build dari dockerfila
+# melakukan build dari dockerfile
 docker build -t karsajobs:latest .
 
 # cek list docker images yang ada
